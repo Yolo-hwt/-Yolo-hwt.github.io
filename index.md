@@ -12,7 +12,7 @@
 
 ​	1.win+R（cmd）进入dos界面
 
-![image-20211015150310813.png](https://cdn.jsdelivr.net/gh/Yolo-hwt/csdnPicAtGithub/blob/main/image-20211015150310813.png)
+![image-20211015150310813.png](https://github.com/Yolo-hwt/csdnPicAtGithub/blob/main/image-20211015150310813.png)
 
 ​	2.进入mysql安装目录中
 
